@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, JavaScript, SCSS, CSS, Vue.js, React.js**
 
-- 📄 Know about my experiences [https://github.com/tallevi008/tallevi008/blob/main/Tal%20Levi%20-%20CV.docx](https://github.com/tallevi008/tallevi008/blob/main/Tal%20Levi%20-%20CV.docx)
+- 📄 Know about my experiences [https://github.com/tallevi008/tallevi008/blob/main/Tal%20Levi%20-%20CV.docx]( Click here to download my CV)
 
 - ⚡ Fun fact **I have sense of humor**
 
