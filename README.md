@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Click here to download my CV](https://github.com/tallevi008/tallevi008/blob/main/Tal%20Levi%20-%20CV.docx)
 
-- ⚡ Fun fact **I have uniqe, charming sense of humor and comic book enthusiastic at heart**
+- ⚡ Fun fact **I have uniqe sense of humor and comic book enthusiastic at heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
